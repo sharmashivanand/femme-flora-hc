@@ -1,0 +1,520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Femme Flora\n"
+"POT-Creation-Date: 2016-03-10 11:53+0530\n"
+"PO-Revision-Date: 2016-03-10 11:54+0530\n"
+"Last-Translator: \n"
+"Language-Team: Binary Turf Web Technologies <tech@binaryturf.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: comment/comment.php:7 comment/ping.php:5
+#, php-format
+msgid "%s ago"
+msgstr ""
+
+#: comment/comment.php:9 content/content.php:14 content/content.php:40
+#: content/page.php:7 content/page.php:20
+msgid "Edit"
+msgstr ""
+
+#: comment/ping.php:6
+msgid "Permalink"
+msgstr ""
+
+#: content/content.php:7 content/content.php:33
+msgid "by "
+msgstr ""
+
+#: content/content.php:8 content/content.php:34
+msgid "on "
+msgstr ""
+
+#: content/content.php:13 content/content.php:39
+msgid "1 Comment"
+msgstr ""
+
+#: content/content.php:13 content/content.php:39
+msgid "% Comments"
+msgstr ""
+
+#: content/error.php:4
+msgid "Nothing found"
+msgstr ""
+
+#: content/error.php:8
+msgid "Apologies, but no entries were found."
+msgstr ""
+
+#: header.php:9
+msgid "Skip to content"
+msgstr ""
+
+#: inc/init.php:195
+msgid "Convertica Layout"
+msgstr ""
+
+#: inc/init.php:195
+msgid "Tune the raw power of Convertica"
+msgstr ""
+
+#: inc/init.php:198 lib/hybrid-core/admin/meta-box-post-layout.php:35
+#: lib/hybrid-core/inc/functions-customize.php:72
+msgid "Layout"
+msgstr ""
+
+#: inc/init.php:200
+msgid "Layout Style"
+msgstr ""
+
+#: inc/init.php:202
+msgid "Body Background Color"
+msgstr ""
+
+#: inc/init.php:204
+msgid "Wrap Background Color"
+msgstr ""
+
+#: inc/init.php:205
+msgid "Archive Options"
+msgstr ""
+
+#: inc/init.php:205
+msgid "Select display options for archives."
+msgstr ""
+
+#: inc/init.php:207
+msgid "Content Style"
+msgstr ""
+
+#: inc/init.php:209
+msgid "Show Featured Image"
+msgstr ""
+
+#: inc/init.php:211
+msgid "Featured Image Size"
+msgstr ""
+
+#: inc/init.php:213
+msgid "Float"
+msgstr ""
+
+#: inc/init.php:215
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/init.php:216
+msgid "Layout Widths"
+msgstr ""
+
+#: inc/init.php:216
+msgid "Select Layout Widths."
+msgstr ""
+
+#: inc/init.php:218
+msgid "Column Padding"
+msgstr ""
+
+#: inc/init.php:220
+msgid "Content Width&#8208;Single Column View"
+msgstr ""
+
+#: inc/init.php:222
+msgid "Content Width&#8208;Two Column View"
+msgstr ""
+
+#: inc/init.php:224
+msgid "Sidebar Width&#8208;Two Column View"
+msgstr ""
+
+#: inc/init.php:226
+msgid "Content Width&#8208;Three Column View"
+msgstr ""
+
+#: inc/init.php:228
+msgid "Sidebar Width&#8208;Three Column View"
+msgstr ""
+
+#: inc/init.php:230
+msgid "Sidebar Subsidiary&#8208;Three Column View"
+msgstr ""
+
+#: inc/init.php:354 menu/breadcrumbs.php:10
+msgid "You are here:"
+msgstr ""
+
+#: inc/init.php:706
+#, php-format
+msgid "Copyright &#169; %1$s %2$s. Powered by %3$s. %4$s is built on %5$s."
+msgstr ""
+
+#: inc/theme.php:61
+msgctxt "nav menu location"
+msgid "Before Header"
+msgstr ""
+
+#: inc/theme.php:62
+msgctxt "nav menu location"
+msgid "After Header"
+msgstr ""
+
+#: inc/theme.php:63
+msgctxt "nav menu location"
+msgid "Footer"
+msgstr ""
+
+#: inc/theme.php:75
+msgid "1 Column"
+msgstr ""
+
+#: inc/theme.php:76
+msgid "2 Columns: Content / Sidebar"
+msgstr ""
+
+#: inc/theme.php:77
+msgid "2 Columns: Sidebar / Content"
+msgstr ""
+
+#: inc/theme.php:78
+msgid "3 Columns: Content / Sidebar / Sidebar"
+msgstr ""
+
+#: inc/theme.php:79
+msgid "3 Columns: Sidebar / Sidebar / Content"
+msgstr ""
+
+#: inc/theme.php:80
+msgid "3 Columns: Sidebar / Content / Sidebar"
+msgstr ""
+
+#: inc/theme.php:95
+msgctxt "sidebar"
+msgid "Primary"
+msgstr ""
+
+#: inc/theme.php:96
+msgid ""
+"This is the primary sidebar if you are using a two or three column layout "
+"option."
+msgstr ""
+
+#: inc/theme.php:103
+msgctxt "sidebar"
+msgid "Subsidiary"
+msgstr ""
+
+#: inc/theme.php:104
+msgid ""
+"This is the subsidiary sidebar if you are using a three column layout option."
+msgstr ""
+
+#: inc/theme.php:111
+msgctxt "sidebar"
+msgid "After Entry"
+msgstr ""
+
+#: inc/theme.php:112
+msgid "This is after entry widget area."
+msgstr ""
+
+#: inc/theme.php:119
+msgctxt "sidebar"
+msgid "Before Header"
+msgstr ""
+
+#: inc/theme.php:120
+msgid "This is before header widget area."
+msgstr ""
+
+#: inc/theme.php:126
+msgctxt "sidebar"
+msgid "After Header"
+msgstr ""
+
+#: inc/theme.php:127
+msgid "This is after header widget area."
+msgstr ""
+
+#: inc/theme.php:133
+msgctxt "sidebar"
+msgid "Before Footer"
+msgstr ""
+
+#: inc/theme.php:134
+msgid "This is before footer widget area."
+msgstr ""
+
+#: lib/hybrid-core/admin/meta-box-post-style.php:35
+msgid "Style"
+msgstr ""
+
+#: lib/hybrid-core/admin/meta-box-post-template.php:41
+msgid "Template"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:244
+msgid "Browse:"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:245
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:246
+msgid "Home"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:247
+#: lib/hybrid-core/inc/template-general.php:422
+msgid "404 Not Found"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:248
+#: lib/hybrid-core/inc/template-general.php:218
+msgid "Archives"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:250
+#: lib/hybrid-core/inc/template-general.php:400
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:252
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:254
+#: lib/hybrid-core/inc/template-general.php:354
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:256
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:708
+#: lib/hybrid-core/inc/template-general.php:376
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:725
+#: lib/hybrid-core/inc/template-general.php:354
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:742
+#: lib/hybrid-core/inc/template-general.php:330
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:758
+#: lib/hybrid-core/ext/breadcrumb-trail.php:787
+#: lib/hybrid-core/ext/breadcrumb-trail.php:814
+#: lib/hybrid-core/ext/breadcrumb-trail.php:841
+#: lib/hybrid-core/ext/breadcrumb-trail.php:1176
+#: lib/hybrid-core/inc/template-general.php:262
+#: lib/hybrid-core/inc/template-general.php:286
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:759
+#: lib/hybrid-core/ext/breadcrumb-trail.php:815
+#: lib/hybrid-core/ext/breadcrumb-trail.php:1180
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:760
+#: lib/hybrid-core/ext/breadcrumb-trail.php:1184
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: lib/hybrid-core/ext/breadcrumb-trail.php:788
+#: lib/hybrid-core/inc/template-general.php:286
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: lib/hybrid-core/inc/class-media-meta.php:245
+#: lib/hybrid-core/inc/template-media.php:172
+#, php-format
+msgid "%1$s &#215; %2$s"
+msgstr ""
+
+#: lib/hybrid-core/inc/functions-attr.php:202
+#, php-format
+msgctxt "sidebar aria label"
+msgid "%s Sidebar"
+msgstr ""
+
+#: lib/hybrid-core/inc/functions-attr.php:235
+#, php-format
+msgctxt "nav menu aria label"
+msgid "%s Menu"
+msgstr ""
+
+#: lib/hybrid-core/inc/functions-attr.php:476
+msgctxt "post time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: lib/hybrid-core/inc/functions-attr.php:601
+msgctxt "comment time format"
+msgid "l, F j, Y, g:i a"
+msgstr ""
+
+#: lib/hybrid-core/inc/functions-customize.php:95
+msgid "Global Layout"
+msgstr ""
+
+#: lib/hybrid-core/inc/functions-head.php:140
+#, php-format
+msgid "%1$s Page %2$s"
+msgstr ""
+
+#: lib/hybrid-core/inc/functions-layouts.php:51
+msgctxt "theme layout"
+msgid "Default"
+msgstr ""
+
+#: lib/hybrid-core/inc/functions-utility.php:94
+msgid "(Untitled)"
+msgstr ""
+
+#: lib/hybrid-core/inc/template-general.php:55
+msgid "http://wordpress.org"
+msgstr ""
+
+#: lib/hybrid-core/inc/template-general.php:55
+msgid "WordPress"
+msgstr ""
+
+#: lib/hybrid-core/inc/template-general.php:286
+#, php-format
+msgid "Week %1$s of %2$s"
+msgstr ""
+
+#: lib/hybrid-core/inc/template-general.php:308
+msgctxt "daily archives date format"
+msgid "F j, Y"
+msgstr ""
+
+#: lib/hybrid-core/inc/template-post.php:219
+msgctxt "taxonomy terms separator"
+msgid ", "
+msgstr ""
+
+#: misc/comments-error.php:6
+#, php-format
+msgid "Comments are closed, but %strackbacks%s and pingbacks are open."
+msgstr ""
+
+#: misc/comments-error.php:13
+msgid "Comments are closed."
+msgstr ""
+
+#: misc/comments-nav.php:5
+msgid "Comments Navigation"
+msgstr ""
+
+#: misc/comments-nav.php:7
+msgctxt "comments navigation"
+msgid "&larr; Previous"
+msgstr ""
+
+#: misc/comments-nav.php:11
+#, php-format
+msgid "Page %1$s of %2$s"
+msgstr ""
+
+#: misc/comments-nav.php:14
+msgctxt "comments navigation"
+msgid "Next &rarr;"
+msgstr ""
+
+#: misc/loop-nav.php:4
+msgid "&larr;&nbsp;Previous Post: %link"
+msgstr ""
+
+#: misc/loop-nav.php:5
+msgid "Next Post: %link&nbsp;&rarr;"
+msgstr ""
+
+#: misc/loop-nav.php:12
+msgctxt "posts navigation"
+msgid "&larr; Previous"
+msgstr ""
+
+#: misc/loop-nav.php:13
+msgctxt "posts navigation"
+msgid "Next &rarr;"
+msgstr ""
+
+#: sidebar/after_entry.php:14 sidebar/after_header.php:16
+#: sidebar/before_footer.php:16 sidebar/before_header.php:16
+#: sidebar/primary.php:14 sidebar/subsidiary.php:14
+msgid "Example Widget"
+msgstr ""
+
+#: sidebar/after_entry.php:16
+#, php-format
+msgid ""
+"This is an example widget to show how the After-Entry sidebar looks by "
+"default. You can add custom widgets from the %swidgets screen%s in the admin."
+msgstr ""
+
+#: sidebar/after_header.php:18
+#, php-format
+msgid ""
+"This is an example widget to show how the After-Header sidebar looks by "
+"default. You can add custom widgets from the %swidgets screen%s in the admin."
+msgstr ""
+
+#: sidebar/before_footer.php:18
+#, php-format
+msgid ""
+"This is an example widget to show how the Before-Footer sidebar looks by "
+"default. You can add custom widgets from the %swidgets screen%s in the admin."
+msgstr ""
+
+#: sidebar/before_header.php:18
+#, php-format
+msgid ""
+"This is an example widget to show how the Before-Header sidebar looks by "
+"default. You can add custom widgets from the %swidgets screen%s in the admin."
+msgstr ""
+
+#: sidebar/primary.php:16
+#, php-format
+msgid ""
+"This is an example widget to show how the Primary sidebar looks by default. "
+"You can add custom widgets from the %swidgets screen%s in the admin."
+msgstr ""
+
+#: sidebar/subsidiary.php:16
+#, php-format
+msgid ""
+"This is an example widget to show how the Secondary sidebar looks by "
+"default. You can add custom widgets from the %swidgets screen%s in the admin."
+msgstr ""

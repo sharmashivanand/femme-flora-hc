@@ -1,0 +1,38 @@
+/**
+ * Theme Name: Femme Flora
+ * Theme URI: https://www.binaryturf.com/wordpress-themes/femme-flora-hybrid-core
+ * Description: A beautiful theme with a feminine touch. Comes with customizable header, logo, fonts and a pleasant feminine floral appearance. Uses truecolor png rendering for header image.
+ * Version: 2.0.1
+ * Author: Shivanand Sharma
+ * Author URI: https://www.binaryturf.com/
+ * Tags: pink, light, one-column, two-columns, three-columns, left-sidebar, right-sidebar, responsive-layout, custom-header, custom-menu, full-width-template, microformats, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, featured-images, editor-style
+ * Text Domain: femme-flora
+ * Domain Path: /languages
+ * License: GNU General Public License v3 or later
+ * License URI: https://www.gnu.org/licenses/gpl-3.0.html
+ * Support URI: https://www.binaryturf.com/about/submit-ticket
+ */
+
+/*
+This theme is licensed under the GNU GPL 2 licence or later.
+Use it to power your business site, rebrand, hack, reshare without our permission. If things break don't blame us. If you create awesomeness, do not forget to tell us about it.
+
+******** LICENSE **********
+Copyright (c) 2015 Shivanand Sharma, Binary Turf Web Technologies Pvt. Ltd.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+
+ADDITIONAL LIBRARIES
+	Convertica uses some additional libraries in order to enhance the theme experience and usability. Here are the details and the licenses of the same.
+	A big thanks to Justin Tadlock for Hybrid Core! Hybrid Core is the heart of Convertica and Convertica wouldn't be possible without it. Hybrid Core is GPLv2.
+	Twitter Bootstrap: Uses MIT license and is 100% GPL compatible.
+	Mobile Detect: Uses MIT license and is 100% GPL compatible.
+*/
+
+
+/* @import url("css/style.css") */
